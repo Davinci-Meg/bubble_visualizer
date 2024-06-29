@@ -1,6 +1,6 @@
 # bubble_visualizer
 
-### English README (日本語版は[こちら](README_jp))
+### English README (日本語版は[こちら](README_jp.md))
 
 #### Dynamic Bubble Visualization with Sound Interaction
 
