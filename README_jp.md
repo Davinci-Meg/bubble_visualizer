@@ -1,6 +1,6 @@
 #bubble_visualizer
 
-### Japanese README
+### Japanese README (English version is [here](README.md))
 
 #### 音声と対話するダイナミックバブルビジュアライゼーション
 
